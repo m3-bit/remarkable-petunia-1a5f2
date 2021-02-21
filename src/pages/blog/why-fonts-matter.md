@@ -67,10 +67,10 @@ A general response for as-salamu alaykum. \*\*وَ \*\*is a conjunction meaning 
 
 **Pronoun** \[iː]
 
-1.  me, my
+1.  <mark>me, my
 
 ---
-<mark>
+
 aaaa
 </mark>
 
