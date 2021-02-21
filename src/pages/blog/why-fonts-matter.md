@@ -53,6 +53,8 @@ This is a basic greeting in Arabic. It literally means
 
 A general response for as-salamu alaykum. \*\*وَ \*\*is a conjunction meaning *and*.
 
+---
+
 # اسم
 
 **Noun** \[i.sim]
