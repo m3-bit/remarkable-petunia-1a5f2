@@ -67,7 +67,7 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 **Conjunction** \[wa]
 
-<mark>and</mark>
+1. <mark>and</mark>
 
 ---
 
