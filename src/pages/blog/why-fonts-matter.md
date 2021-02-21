@@ -45,6 +45,8 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 This is a basic greeting in Arabic. It literally means 
 "**Peace upon you**". \*\*ٱلسَّلَامُ \*\*means *peace*.
 
+---
+
 # وَعَلَيْكُمُ ٱلسَّلَامُ
 
 **Phrase** \[wa.ʕa.laj.ku.mu‿s.sa.laː.mu]
