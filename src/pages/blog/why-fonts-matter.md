@@ -67,7 +67,7 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 **Conjunction** \[wa]
 
-<mark>A general response for as-salamu alaykum.</mark> \*\*وَ \*\*is a conjunction meaning *and*.
+<mark>and</mark> \*\*وَ \*\*is a conjunction meaning *and*.
 
 ---
 
