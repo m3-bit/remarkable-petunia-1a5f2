@@ -38,5 +38,6 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 template: post
+excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 ---
 ٱلسَّلَامُ عَلَيْكُمْ
