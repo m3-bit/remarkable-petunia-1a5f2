@@ -63,7 +63,7 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 ---
 # 
-وَ
+
 
 **Phrase** \[wa.ʕa.laj.ku.mu‿s.sa.laː.mu]
 
