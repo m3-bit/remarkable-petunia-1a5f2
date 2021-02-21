@@ -47,6 +47,7 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 ---
 
+# ٱلسَّلَامُ
 **Phrase** \[as.sa.laː.mu ʕa.laj.kum]
 
 <mark>This is a basic greeting in Arabic. It literally means 
