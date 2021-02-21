@@ -69,6 +69,7 @@ A general response for as-salamu alaykum. \*\*وَ \*\*is a conjunction meaning 
 
 1.  me, my
 
+---
 <mark>
 aaaa
 </mark>
