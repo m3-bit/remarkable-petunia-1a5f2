@@ -51,7 +51,7 @@ This is a basic greeting in Arabic. It literally means
 
 **Phrase** \[wa.ʕa.laj.ku.mu‿s.sa.laː.mu]
 
-A general response for as-salamu alaykum.</mark> \*\*وَ \*\*is a conjunction meaning *and*.
+</mark>A general response for as-salamu alaykum.</mark> \*\*وَ \*\*is a conjunction meaning *and*.
 
 ---
 
