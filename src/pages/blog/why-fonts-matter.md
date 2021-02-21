@@ -38,6 +38,7 @@ seo:
 template: post
 excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 ---
+
 # ٱلسَّلَامُ عَلَيْكُمْ
 
 **Phrase** \[as.sa.laː.mu ʕa.laj.kum]
