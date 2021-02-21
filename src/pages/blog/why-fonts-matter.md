@@ -42,18 +42,42 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 \[as.sa.laː.mu ʕa.laj.kum]
 
-This is a basic greeting in Arabic. It literally means "**Peace upon you**". **ٱلسَّلَامُ **means *peace*.
+This is a basic greeting in Arabic. It literally means "**Peace upon you**". \*\*ٱلسَّلَامُ \*\*means *peace*.
 
 # وَعَلَيْكُمُ ٱلسَّلَامُ
 
 \[wa.ʕa.laj.ku.mu‿s.sa.laː.mu]
 
-A general response for as-salamu alaykum. **وَ **is a conjunction meaning *and*.
+A general response for as-salamu alaykum. \*\*وَ \*\*is a conjunction meaning *and*.
 
 # اسم
 
 \[i.sim]
 
 Noun
+
+# ي
+
+\<table>
+    \<caption>ي\</caption>
+  \<thead>
+    \<tr>
+      \<th>Pronunciation\</th>
+      \<th>Header content 2\</th>
+    \</tr>
+  \</thead>
+  \<tbody>
+    \<tr>
+      \<td>\[iː]\</td>
+      \<td>bound object pronoun: me, my\</td>
+    \</tr>
+  \</tbody>
+  \<tfoot>
+    \<tr>
+      \<td>Footer content 1\</td>
+      \<td>Footer content 2\</td>
+    \</tr>
+  \</tfoot>
+\</table>
 
 name
