@@ -67,7 +67,7 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 **Conjunction** \[wa]
 
-<mark>and</mark> \*\*وَ \*\*is a conjunction meaning *and*.
+<mark>and</mark>
 
 ---
 
