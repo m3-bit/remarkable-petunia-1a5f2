@@ -65,7 +65,6 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 # وَ
 
-
 **Phrase** \[wa.ʕa.laj.ku.mu‿s.sa.laː.mu]
 
 <mark>A general response for as-salamu alaykum.</mark> \*\*وَ \*\*is a conjunction meaning *and*.
