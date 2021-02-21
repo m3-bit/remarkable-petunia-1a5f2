@@ -59,7 +59,7 @@ A general response for as-salamu alaykum. \*\*وَ \*\*is a conjunction meaning 
 
 **Noun** \[i.sim]
 
-1.  <mark>name
+1.  <mark>name</mark>
 
 ---
 
