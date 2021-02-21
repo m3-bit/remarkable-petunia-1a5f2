@@ -49,7 +49,7 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 # ٱلسَّلَامُ
 
-**Noun** \[as.sa.laː.mu ʕa.laj.kum]
+**Noun** \[as.sa.laː.mu]
 
 <mark>peace</mark>
 
