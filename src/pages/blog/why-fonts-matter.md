@@ -61,6 +61,8 @@ A general response for as-salamu alaykum. \*\*وَ \*\*is a conjunction meaning 
 
 1.  name
 
+---
+
 # ي
 
 **Pronoun** \[iː]
