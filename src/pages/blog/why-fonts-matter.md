@@ -51,7 +51,7 @@ excerpt: ٱلسَّلَامُ عَلَيْكُمْ
 
 **Noun** \[as.sa.laː.mu]
 
-<mark>peace</mark>
+1. <mark>peace</mark>
 
 ---
 
