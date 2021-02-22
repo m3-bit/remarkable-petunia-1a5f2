@@ -41,9 +41,21 @@ seo:
       relativeUrl: true
 template: post
 ---
+1.  Good Medical News
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+Cancer is the second-leading cause of death in America after heart disease. But science is making strides against the disease's hefty toll. The new report shows that there were 3,014 fewer cancer-related deaths in 2004 than in 2003. The number also decreased between 2002 and 2003. That was the first drop since 1930.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Death rates have fallen for three of the most common kinds of cancer. Experts believe that early detection, advances in treatment and a decline in smoking are responsible for the positive change. The American Cancer Society says it believes cancer deaths will continue to go lower.
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+
+
+1.  医療に関する朗報
+
+　がんは心臓疾患に次いでアメリカで２番目に多い死因である。しかし、科学の大きな進歩によって、大変な数に上るこの病気による犠牲者が減少している。
+
+　死亡率は、死亡者が最も多いがん３種類で下がってきている。専門家は、早期発見、治療法の進歩、そして喫煙率の低下によって、このような好ましい変化がもたらされたと考えている。
+
+
+
+the second-leading after ~は「〜に次いで２番目」という意味で、内容がcause of death（死因）なので、「２番目に多い」ということになります。
+
